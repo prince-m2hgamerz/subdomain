@@ -27,6 +27,8 @@ A premium, high-performance landing page consistent with the "Geist" design syst
 
 This project is optimized for [Vercel](https://vercel.com).
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fm2h-subdomain)
+
 1.  Push this code to a GitHub repository.
 2.  Import the repository into Vercel.
 3.  Vercel will automatically detect the configuration.
