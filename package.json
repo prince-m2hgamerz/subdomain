@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Vercel-inspired subdomain landing page",
     "scripts": {
-        "build": "npx tailwindcss -i ./styles.css -o ./output.css --minify",
+        "build": "npm install -D tailwindcss && npx tailwindcss -i ./styles.css -o ./output.css --minify",
         "dev": "npx tailwindcss -i ./styles.css -o ./output.css --watch"
     },
     "keywords": [],
